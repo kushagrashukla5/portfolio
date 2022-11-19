@@ -7,7 +7,7 @@
 .HERO{
     height: 100vh;
     width: 100%;
-    background-image: url("C:/Users/ASUS/OneDrive/Desktop/VS CODES/Portfolio/BG.jpg");
+    background-image: url("BG.jpg");
     background-size: cover;
     background-position: center;
 }
